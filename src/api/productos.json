@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hamburguesa",
+        "precio": 5000,
+        "imaUrl": "./images/burguer.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Empanada",
+        "precio": 300,
+        "imaUrl": "./images/empanada.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Papas Fritas",
+        "precio": 2500,
+        "imaUrl": "./images/papas.jpg"
+    },
+    {
+        "id": 1,
+        "nombre": "Pizza",
+        "precio": 10000,
+        "imaUrl": "./images/pizza.jpg"
+    }
+]
